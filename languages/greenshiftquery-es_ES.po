@@ -1,0 +1,2712 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/greenshiftquery\n"
+"POT-Creation-Date: 2023-12-08T11:05:37+01:00\n"
+"PO-Revision-Date: 2023-12-08 20:00+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: .\n"
+
+#. Plugin Name of the plugin
+msgid "Greenshift Query and Meta Addon"
+msgstr "Consulta Greenshift y metacomplemento"
+
+#. Description of the plugin
+msgid "Get any meta value, use better query block"
+msgstr "Obtenga cualquier valor meta, use un mejor bloque de consulta"
+
+#. Author of the plugin
+msgid "Wpsoul"
+msgstr "Wpsoul"
+
+#. Author URI of the plugin
+msgid "https://greenshiftwp.com"
+msgstr ""
+
+#: blockrender/advanced-listing/block.php:219
+msgid "Show next"
+msgstr "Mostrar siguiente"
+
+#: blockrender/dynamic-post-image/block.php:172
+msgid "Image is not available."
+msgstr "La imagen no está disponible."
+
+#: blockrender/dynamic-post-title/block.php:138
+msgid "Post not found."
+msgstr "Publicación no encontrada."
+
+#: blockrender/dynamic-post-title/block.php:142
+msgid "Title is not available."
+msgstr "El título no está disponible."
+
+#: blockrender/querygrid/block.php:429
+msgid "In stock"
+msgstr "En stock"
+
+#: greenshiftquery.php:209
+msgid "What's New"
+msgstr "Qué hay de nuevo"
+
+#: integrations.php:21
+msgid "Greenshift Query Builder"
+msgstr "Generador de consultas Greenshift"
+
+#: parts/listbuilder.php:15
+msgid "More details +"
+msgstr "Más detalles +"
+
+#: parts/listbuilder.php:16
+msgid "Read full review"
+msgstr "Leer reseña completa"
+
+#: patterns/query/query-cover-simple.php:9
+msgid "Query Grid with cover images"
+msgstr "Cuadrícula de consultas con imágenes de portada"
+
+#: patterns/query/query-cover.php:9
+msgid "Query Custom Grid with cover images"
+msgstr "Consultar cuadrícula personalizada con imágenes de portada"
+
+#: patterns/query/query-hover.php:9
+msgid "Query Grid with Hover Container"
+msgstr "Cuadrícula de consultas con contenedor flotante"
+
+#: patterns/query/query-prevnext.php:8
+msgid "Prev Next Query"
+msgstr "Anterior Siguiente Consulta"
+
+#: patterns/query/query-syncslider.php:9
+msgid "Two synchronized Query Sliders"
+msgstr "Dos controles deslizantes de consulta sincronizados"
+
+#: patterns/query/query-wishlist.php:5
+msgid "Core Loop with bookmarks"
+msgstr "Core Loop con marcadores"
+
+#: rest.php:908
+msgid "Post don't has a title."
+msgstr "La publicación no tiene título."
+
+#: build/index.js:1
+msgid "Meta getter"
+msgstr "meta captador"
+
+#: build/index.js:1
+msgid "Retrieve Meta, ACF, Attribute or Taxonomy value"
+msgstr "Recuperar valor de meta, ACF, atributo o taxonomía"
+
+#: build/index.js:1
+msgid "Align Text Left"
+msgstr "Alinear texto a la izquierda"
+
+#: build/index.js:1
+msgid "Align Text Center"
+msgstr "Alinear el centro del texto"
+
+#: build/index.js:1
+msgid "Align Text Right"
+msgstr "Alinear texto a la derecha"
+
+#: build/index.js:1
+msgid "Select field or type below"
+msgstr "Seleccione el campo o escriba a continuación"
+
+#: build/index.js:1
+msgid "Select Taxonomy or type below"
+msgstr "Seleccione Taxonomía o escriba a continuación"
+
+#: build/index.js:1
+msgid "Select Field"
+msgstr "Seleccionar campo"
+
+#: build/index.js:1
+msgid "Archive Title"
+msgstr "Título del archivo"
+
+#: build/index.js:1
+msgid "Archive Description"
+msgstr "Descripción del archivo"
+
+#: build/index.js:1
+msgid "Term Meta Field Value"
+msgstr "Valor del metacampo del término"
+
+#: build/index.js:1
+msgid "Main Settings"
+msgstr "Ajustes principales"
+
+#: build/index.js:1
+msgid "Custom Repeater field"
+msgstr "Campo repetidor personalizado"
+
+#: build/index.js:1
+msgid "Select Post type for preview"
+msgstr "Seleccione el tipo de publicación para obtener una vista previa"
+
+#: build/index.js:1
+msgid "Leave blank to show current post type"
+msgstr "Déjelo en blanco para mostrar el tipo de publicación actual"
+
+#: build/index.js:1
+msgid "Attribute"
+msgstr "Atributo"
+
+#: build/index.js:1
+msgid "Attribute Link"
+msgstr "Enlace de atributo"
+
+#: build/index.js:1
+msgid "Local Attribute"
+msgstr "Atributo local"
+
+#: build/index.js:1
+msgid "Product Swatch"
+msgstr "Muestra de producto"
+
+#: build/index.js:1
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: build/index.js:1
+msgid "Taxonomy Link"
+msgstr "Enlace de taxonomía"
+
+#: build/index.js:1
+msgid "Archive Name"
+msgstr "Nombre del archivo"
+
+#: build/index.js:1
+msgid "Archive Meta Field"
+msgstr "Archivar metacampo"
+
+#: build/index.js:1
+msgid ""
+"This type must be used only on Taxonomy Archive pages. It will detect "
+"taxonomy automatically"
+msgstr ""
+"Este tipo debe usarse únicamente en las páginas del Archivo de Taxonomía. "
+"Detectará la taxonomía automáticamente."
+
+#: build/index.js:1
+msgid "Site Option"
+msgstr "Opción de sitio"
+
+#: build/index.js:1
+msgid "Site Name"
+msgstr "Nombre del sitio"
+
+#: build/index.js:1
+msgid "Site Description"
+msgstr "descripción del lugar"
+
+#: build/index.js:1
+msgid "Current Year"
+msgstr "Año corriente"
+
+#: build/index.js:1
+msgid "Current Month"
+msgstr "Mes actual"
+
+#: build/index.js:1
+msgid "Today + 1 day"
+msgstr "Hoy + 1 día"
+
+#: build/index.js:1
+msgid "Today + 2 days"
+msgstr "Hoy + 2 días"
+
+#: build/index.js:1
+msgid "Today + 3 days"
+msgstr "Hoy + 3 días"
+
+#: build/index.js:1
+msgid "Today + 7 days"
+msgstr "Hoy + 7 días"
+
+#: build/index.js:1
+msgid "Option Name"
+msgstr "Nombre de la opción"
+
+#: build/index.js:1
+msgid "You can also use array-like values, example: fieldkey[0][keyname]"
+msgstr ""
+"También puede utilizar valores similares a una matriz, por ejemplo: clave de "
+"campo[0][nombreclave]"
+
+#: build/index.js:1
+msgid "ACF multivalue field"
+msgstr "Campo multivalor ACF"
+
+#: build/index.js:1
+msgid "ACF File Download field"
+msgstr "Campo de descarga de archivos ACF"
+
+#: build/index.js:1
+msgid "ACF image field value"
+msgstr "Valor del campo de imagen ACF"
+
+#: build/index.js:1
+msgid "ACF repeater value"
+msgstr "Valor del repetidor ACF"
+
+#: build/index.js:1
+msgid "ACF repeater table"
+msgstr "Mesa de repetidores ACF"
+
+#: build/index.js:1
+msgid "Choose definite item"
+msgstr "Elija artículo definitivo"
+
+#: build/index.js:1
+msgid "Get field"
+msgstr "Obtener campo"
+
+#: build/index.js:1
+msgid "Add Data Format"
+msgstr "Agregar formato de datos"
+
+#: build/index.js:1
+msgid "Plain format"
+msgstr "formato simple"
+
+#: build/index.js:1
+msgid "Wysiwyg formatting"
+msgstr "Formato Wysiwyg"
+
+#: build/index.js:1
+msgid "Mailto link"
+msgstr "enlace de correo"
+
+#: build/index.js:1
+msgid "Tel: link"
+msgstr "Teléfono: enlace"
+
+#: build/index.js:1
+msgid "Post link"
+msgstr "Enlace de publicación"
+
+#: build/index.js:1
+msgid "External link"
+msgstr "Enlace externo"
+
+#: build/index.js:1
+msgid "Comma separator to list"
+msgstr "Separador de coma para listar"
+
+#: build/index.js:1
+msgid "Date YYYYMMDD to Wordpress date"
+msgstr ""
+
+#: build/index.js:1
+msgid "Date yyyy-mm-dd to Wordpress date"
+msgstr ""
+
+#: build/index.js:1
+msgid "Date Y-m-d H:i:s to Wordpress date"
+msgstr ""
+
+#: build/index.js:1
+msgid "Date to difference with current"
+msgstr ""
+
+#: build/index.js:1
+msgid "Number format"
+msgstr "Formato numérico"
+
+#: build/index.js:1
+msgid "Disable list dots"
+msgstr ""
+
+#: build/index.js:1
+msgid "By default, first row will be used. You must add also subfield"
+msgstr ""
+
+#: build/index.js:1
+msgid "Number of row to get value"
+msgstr ""
+
+#: build/index.js:1
+msgid "Type"
+msgstr ""
+
+#: build/index.js:1
+msgid "Single text value"
+msgstr ""
+
+#: build/index.js:1
+msgid "Multi value (checkbox, select)"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show empty value?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Labels"
+msgstr ""
+
+#: build/index.js:1
+msgid "Prefix Label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show Prefix on separate line?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable inline style?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Postfix label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Icon"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add Link to Block"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable Link from Title"
+msgstr ""
+
+#: build/index.js:1
+msgid "Select Source"
+msgstr ""
+
+#: build/index.js:1
+msgid "Post Title"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom field"
+msgstr ""
+
+#: build/index.js:1
+msgid "Repeater data"
+msgstr ""
+
+#: build/index.js:1
+msgid "Type field key"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"Enter field name to get value from repeater or custom field. You can also "
+"use array-like values, example: fieldkey[0][keyname]"
+msgstr ""
+
+#: build/index.js:1
+msgid "Value Design"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show value as Check icon?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Prefix design"
+msgstr ""
+
+#: build/index.js:1
+msgid "Postfix design"
+msgstr ""
+
+#: build/index.js:1
+msgid "Table header design"
+msgstr ""
+
+#: build/index.js:1
+msgid "Block Spacing"
+msgstr "Espaciado de bloques"
+
+#: build/index.js:1
+msgid "Value Spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Background and Opacity"
+msgstr ""
+
+#: build/index.js:1
+msgid "Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Shadow"
+msgstr "Sombra"
+
+#: build/index.js:1
+msgid "Width, Height, Align, Clamp"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable Text Clamp?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Line Clamp"
+msgstr ""
+
+#: build/index.js:1
+msgid "Thumbs counter"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add thumbs block to post or query block"
+msgstr ""
+
+#: build/index.js:1
+msgid "Thumbs"
+msgstr ""
+
+#: build/index.js:1
+msgid "Hot counter"
+msgstr ""
+
+#: build/index.js:1
+msgid "Position of counter"
+msgstr ""
+
+#: build/index.js:1
+msgid "By Default"
+msgstr ""
+
+#: build/index.js:1
+msgid "Before buttons"
+msgstr ""
+
+#: build/index.js:1
+msgid "Between buttons"
+msgstr ""
+
+#: build/index.js:1
+msgid "After buttons"
+msgstr ""
+
+#: build/index.js:1
+msgid "End of block"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show counter line?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Retrieve value"
+msgstr ""
+
+#: build/index.js:1
+msgid "Set definite ID"
+msgstr ""
+
+#: build/index.js:1
+msgid "Use this if you want to show button from definite post ID"
+msgstr ""
+
+#: build/index.js:1
+msgid "Colors and Size"
+msgstr ""
+
+#: build/index.js:1
+msgid "Minus/Thumb down color"
+msgstr ""
+
+#: build/index.js:1
+msgid "Minus/Thumb down color hover"
+msgstr ""
+
+#: build/index.js:1
+msgid "Plus/Thumb up color"
+msgstr ""
+
+#: build/index.js:1
+msgid "Plus/Thumb up color hover"
+msgstr ""
+
+#: build/index.js:1
+msgid "Value Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "Background for Thumbs Down/Minus"
+msgstr ""
+
+#: build/index.js:1
+msgid "Background for Thumbs Up/Plus"
+msgstr ""
+
+#: build/index.js:1
+msgid "Background for Counter"
+msgstr ""
+
+#: build/index.js:1
+msgid "Background for Line"
+msgstr ""
+
+#: build/index.js:1
+msgid "Spacing for Thumbs Down/Minus"
+msgstr ""
+
+#: build/index.js:1
+msgid "Spacing for Thumbs Up/Plus"
+msgstr ""
+
+#: build/index.js:1
+msgid "Spacing for Counter"
+msgstr ""
+
+#: build/index.js:1
+msgid "Border for Thumbs Down/Minus"
+msgstr ""
+
+#: build/index.js:1
+msgid "Border for Thumbs Up/Plus"
+msgstr ""
+
+#: build/index.js:1
+msgid "Border for Counter"
+msgstr ""
+
+#: build/index.js:1
+msgid "Shadow for Thumbs Down/Minus"
+msgstr ""
+
+#: build/index.js:1
+msgid "Shadow for Thumbs Up/Plus"
+msgstr ""
+
+#: build/index.js:1
+msgid "Shadow for Counter"
+msgstr ""
+
+#: build/index.js:1
+msgid "Block background"
+msgstr ""
+
+#: build/index.js:1
+msgid "Wishlist"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add wishlist to page or query block"
+msgstr ""
+
+#: build/index.js:1
+msgid "Button"
+msgstr "Botón"
+
+#: build/index.js:1
+msgid "Counter"
+msgstr ""
+
+#: build/index.js:1
+msgid "List"
+msgstr ""
+
+#: build/index.js:1
+msgid "Icon Type"
+msgstr ""
+
+#: build/index.js:1
+msgid "Circle"
+msgstr ""
+
+#: build/index.js:1
+msgid "Heart"
+msgstr ""
+
+#: build/index.js:1
+msgid "Bookmark"
+msgstr ""
+
+#: build/index.js:1
+msgid "Text for Add to Wishlist"
+msgstr ""
+
+#: build/index.js:1
+msgid "Remove all text values if you want to show only icon"
+msgstr ""
+
+#: build/index.js:1
+msgid "Text for Added to Wishlist"
+msgstr ""
+
+#: build/index.js:1
+msgid "Place icon after text?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable counter value?"
+msgstr ""
+
+#: build/index.js:1
+msgid "No items text"
+msgstr ""
+
+#: build/index.js:1
+msgid "Icon color"
+msgstr "Color del icono"
+
+#: build/index.js:1
+msgid "Active icon color"
+msgstr ""
+
+#: build/index.js:1
+msgid "Counter color"
+msgstr ""
+
+#: build/index.js:1
+msgid "Icon Size"
+msgstr ""
+
+#: build/index.js:1
+msgid "Counter Top Offset"
+msgstr ""
+
+#: build/index.js:1
+msgid "Background"
+msgstr "Fondo"
+
+#: build/index.js:1
+msgid "Icon Spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "Post Category or tag"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom post type and taxonomy"
+msgstr ""
+
+#: build/index.js:1
+msgid "Manual Select and Order"
+msgstr ""
+
+#: build/index.js:1
+msgid "Related items By Taxonomy"
+msgstr ""
+
+#: build/index.js:1
+msgid "Related items By Post Author"
+msgstr ""
+
+#: build/index.js:1
+msgid "Auto detect archive data"
+msgstr ""
+
+#: build/index.js:1
+msgid "Auto detect Shop archive"
+msgstr ""
+
+#: build/index.js:1
+msgid "Wishlist query"
+msgstr ""
+
+#: build/index.js:1
+msgid "Get all childs of current page"
+msgstr ""
+
+#: build/index.js:1
+msgid "Get Previous Post"
+msgstr ""
+
+#: build/index.js:1
+msgid "Get Next Post"
+msgstr ""
+
+#: build/index.js:1
+msgid "MetaBox RelationShip"
+msgstr ""
+
+#: build/index.js:1
+msgid "Ids RelationShip"
+msgstr ""
+
+#: build/index.js:1
+msgid "All types of products"
+msgstr ""
+
+#: build/index.js:1
+msgid "Recent products"
+msgstr ""
+
+#: build/index.js:1
+msgid "Featured products"
+msgstr ""
+
+#: build/index.js:1
+msgid "Products with discount"
+msgstr ""
+
+#: build/index.js:1
+msgid "Products which have sales"
+msgstr ""
+
+#: build/index.js:1
+msgid "Recent viewed products"
+msgstr ""
+
+#: build/index.js:1
+msgid "Related products"
+msgstr ""
+
+#: build/index.js:1
+msgid "Upsell products"
+msgstr ""
+
+#: build/index.js:1
+msgid "By Post Type"
+msgstr ""
+
+#: build/index.js:1
+msgid "By Taxonomy"
+msgstr ""
+
+#: build/index.js:1
+msgid "User Meta"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom meta"
+msgstr ""
+
+#: build/index.js:1
+msgid "Taxonomy meta"
+msgstr ""
+
+#: build/index.js:1
+msgid "URL Query"
+msgstr ""
+
+#: build/index.js:1
+msgid "Referral Source"
+msgstr ""
+
+#: build/index.js:1
+msgid "Date/Time Period"
+msgstr ""
+
+#: build/index.js:1
+msgid "Mobile View"
+msgstr ""
+
+#: build/index.js:1
+msgid "Cookie"
+msgstr ""
+
+#: build/index.js:1
+msgid "Woocommerce fields"
+msgstr ""
+
+#: build/index.js:1
+msgid "Repeater fields"
+msgstr ""
+
+#: build/index.js:1
+msgid "You can use dynamic placeholders: "
+msgstr ""
+
+#: build/index.js:1
+msgid "will be replaced with current post ID where you use block"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"will be replaced by meta field value _sku of current post, you can use any "
+"other keys also"
+msgstr ""
+
+#: build/index.js:1
+msgid "will be replaced by current author ID"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"will be replaced by current date and enabled date type of field. Your field "
+"must be saved in Y-m-d format"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"will be replaced by current date and time and enabled datetime type of "
+"field. Your field must be saved in Y-m-d H:i:s format"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"will be converted to unix time. You can use other English words related to "
+"date. Your field must have unix timestamp format"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"will be converted to unix time and compared with meta field with date format"
+msgstr ""
+
+#: build/index.js:1
+msgid "Query settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Do not show content for selected"
+msgstr ""
+
+#: build/index.js:1
+msgid "Data query"
+msgstr "consulta de datos"
+
+#: build/index.js:1
+msgid "Category"
+msgstr ""
+
+#: build/index.js:1
+msgid "Category exclude"
+msgstr ""
+
+#: build/index.js:1
+msgid "Tag"
+msgstr ""
+
+#: build/index.js:1
+msgid "Tag exclude"
+msgstr ""
+
+#: build/index.js:1
+msgid "Post names"
+msgstr ""
+
+#: build/index.js:1
+msgid "Post Type"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom Taxonomy"
+msgstr ""
+
+#: build/index.js:1
+msgid "Include"
+msgstr ""
+
+#: build/index.js:1
+msgid "Exclude"
+msgstr ""
+
+#: build/index.js:1
+msgid "Has Parent item?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Price range"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"Set price range to show. Works only for posts with Main Post offer section. "
+"Example of using: 0-100. Will show products with price under 100"
+msgstr ""
+
+#: build/index.js:1
+msgid "Type of products"
+msgstr ""
+
+#: build/index.js:1
+msgid "User"
+msgstr ""
+
+#: build/index.js:1
+msgid "If user is logged In"
+msgstr ""
+
+#: build/index.js:1
+msgid "Also Limit By user role"
+msgstr ""
+
+#: build/index.js:1
+msgid "This will work only on taxonomy archive pages"
+msgstr ""
+
+#: build/index.js:1
+msgid "This will work only inside Repeater builder block"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom field key"
+msgstr ""
+
+#: build/index.js:1
+msgid "Divide by | your range values, example 0|100"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom field value"
+msgstr ""
+
+#: build/index.js:1
+msgid "Operator"
+msgstr ""
+
+#: build/index.js:1
+msgid "<"
+msgstr ""
+
+#: build/index.js:1
+msgid "Less"
+msgstr ""
+
+#: build/index.js:1
+msgid "<="
+msgstr ""
+
+#: build/index.js:1
+msgid "="
+msgstr ""
+
+#: build/index.js:1
+msgid "Equal"
+msgstr ""
+
+#: build/index.js:1
+msgid "!="
+msgstr ""
+
+#: build/index.js:1
+msgid ">"
+msgstr ""
+
+#: build/index.js:1
+msgid "More"
+msgstr ""
+
+#: build/index.js:1
+msgid ">="
+msgstr ""
+
+#: build/index.js:1
+msgid "Exist"
+msgstr ""
+
+#: build/index.js:1
+msgid "Not Exist"
+msgstr ""
+
+#: build/index.js:1
+msgid "Not exist"
+msgstr ""
+
+#: build/index.js:1
+msgid "BETWEEN"
+msgstr ""
+
+#: build/index.js:1
+msgid "Query String"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"Field support regular expression. Add them after word REGEX without spaces"
+msgstr ""
+
+#: build/index.js:1
+msgid "Referal Url"
+msgstr ""
+
+#: build/index.js:1
+msgid "Date/Time From"
+msgstr ""
+
+#: build/index.js:1
+msgid "Date/Time To"
+msgstr ""
+
+#: build/index.js:1
+msgid "Name of cookie"
+msgstr ""
+
+#: build/index.js:1
+msgid "Cookie equal:"
+msgstr ""
+
+#: build/index.js:1
+msgid "If related products exists"
+msgstr ""
+
+#: build/index.js:1
+msgid "If upsell products exists"
+msgstr ""
+
+#: build/index.js:1
+msgid "Items in cart"
+msgstr ""
+
+#: build/index.js:1
+msgid "Value in cart"
+msgstr ""
+
+#: build/index.js:1
+msgid "Empty Cart"
+msgstr ""
+
+#: build/index.js:1
+msgid "More than value"
+msgstr ""
+
+#: build/index.js:1
+msgid "Multiple Conditions"
+msgstr ""
+
+#: build/index.js:1
+msgid "AND"
+msgstr ""
+
+#: build/index.js:1
+msgid "OR"
+msgstr ""
+
+#: build/index.js:1
+msgid "By Taxonomy query"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom meta query"
+msgstr ""
+
+#: build/index.js:1
+msgid "Taxonomy meta query"
+msgstr ""
+
+#: build/index.js:1
+msgid "By URL Query Path"
+msgstr ""
+
+#: build/index.js:1
+msgid "By Referral Source"
+msgstr ""
+
+#: build/index.js:1
+msgid "By Cookie"
+msgstr ""
+
+#: build/index.js:1
+msgid "Remove Condition"
+msgstr ""
+
+#: build/index.js:1
+msgid "Condition #"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add Condition"
+msgstr ""
+
+#: build/index.js:1
+msgid "Select Taxonomy base"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"This will take current page where you placed this block and will show all "
+"childs of this page using post_parent parameter. This option will work only "
+"on frontend and it must be used only on singular pages and not in archives. "
+"In editor, it will show all pages for preview purpose"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"This will take current page where you placed this block and will show all "
+"related items of this page which you set via Metabox Relationship addon"
+msgstr ""
+
+#: build/index.js:1
+msgid "Relationship ID"
+msgstr ""
+
+#: build/index.js:1
+msgid "Set relationship ID which you set in Metabox Relationship addon"
+msgstr ""
+
+#: build/index.js:1
+msgid "Relationship type"
+msgstr ""
+
+#: build/index.js:1
+msgid "From"
+msgstr ""
+
+#: build/index.js:1
+msgid "To"
+msgstr ""
+
+#: build/index.js:1
+msgid "This will take IDs data from Meta field and show them as items"
+msgstr ""
+
+#: build/index.js:1
+msgid "Meta field Key"
+msgstr ""
+
+#: build/index.js:1
+msgid "Data must be saved as ids divides by commas or array of ids"
+msgstr ""
+
+#: build/index.js:1
+msgid "Additional Query parameters"
+msgstr ""
+
+#: build/index.js:1
+msgid "Taxonomy query"
+msgstr ""
+
+#: build/index.js:1
+msgid "Search by Title"
+msgstr ""
+
+#: build/index.js:1
+msgid "Author"
+msgstr ""
+
+#: build/index.js:1
+msgid "IN"
+msgstr ""
+
+#: build/index.js:1
+msgid "NOT IN"
+msgstr ""
+
+#: build/index.js:1
+msgid "NOT BETWEEN"
+msgstr ""
+
+#: build/index.js:1
+msgid "LIKE"
+msgstr ""
+
+#: build/index.js:1
+msgid "NOT LIKE"
+msgstr ""
+
+#: build/index.js:1
+msgid "REGEXP"
+msgstr ""
+
+#: build/index.js:1
+msgid "NOT REGEXP"
+msgstr ""
+
+#: build/index.js:1
+msgid "Title"
+msgstr "Título"
+
+#: build/index.js:1
+msgid "Show all Posts"
+msgstr ""
+
+#: build/index.js:1
+msgid "Sort by Comments Count"
+msgstr ""
+
+#: build/index.js:1
+msgid "Sort by Meta Field"
+msgstr ""
+
+#: build/index.js:1
+msgid "Sort by Price Range"
+msgstr ""
+
+#: build/index.js:1
+msgid "Sort by Taxonomy"
+msgstr ""
+
+#: build/index.js:1
+msgid "Date"
+msgstr ""
+
+#: build/index.js:1
+msgid "Order by Post ID"
+msgstr ""
+
+#: build/index.js:1
+msgid "Last Modified Date"
+msgstr ""
+
+#: build/index.js:1
+msgid "Number of Comments"
+msgstr ""
+
+#: build/index.js:1
+msgid "Discount"
+msgstr ""
+
+#: build/index.js:1
+msgid "Menu Order"
+msgstr ""
+
+#: build/index.js:1
+msgid "Random Order"
+msgstr ""
+
+#: build/index.js:1
+msgid "Descending"
+msgstr ""
+
+#: build/index.js:1
+msgid "Ascending"
+msgstr ""
+
+#: build/index.js:1
+msgid "All"
+msgstr ""
+
+#: build/index.js:1
+msgid "Published last 24 hours"
+msgstr ""
+
+#: build/index.js:1
+msgid "Published last 7 days"
+msgstr ""
+
+#: build/index.js:1
+msgid "Published last month"
+msgstr ""
+
+#: build/index.js:1
+msgid "Published last year"
+msgstr ""
+
+#: build/index.js:1
+msgid "Label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Type key for Meta"
+msgstr ""
+
+#: build/index.js:1
+msgid "Price Range"
+msgstr ""
+
+#: build/index.js:1
+msgid "Taxonomy slug"
+msgstr ""
+
+#: build/index.js:1
+msgid "Use filter taxonomy within general taxonomy option?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Order By"
+msgstr ""
+
+#: build/index.js:1
+msgid "Sorting"
+msgstr ""
+
+#: build/index.js:1
+msgid "Filter by date of publishing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Filter settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable panel?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add Filter item"
+msgstr ""
+
+#: build/index.js:1
+msgid "Choose taxonomy to enable category select filter"
+msgstr ""
+
+#: build/index.js:1
+msgid "Taxonomy ids"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"Type here ids of taxonomy separated by comma which you need to show. Leave "
+"empty to show all"
+msgstr ""
+
+#: build/index.js:1
+msgid "Taxonomy dropdown label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Type here label for dropdown"
+msgstr ""
+
+#: build/index.js:1
+msgid "Active tab text color"
+msgstr ""
+
+#: build/index.js:1
+msgid "Active tab background"
+msgstr ""
+
+#: build/index.js:1
+msgid "Panel background"
+msgstr ""
+
+#: build/index.js:1
+msgid "Data settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Select Order"
+msgstr ""
+
+#: build/index.js:1
+msgid "Order by post ID"
+msgstr ""
+
+#: build/index.js:1
+msgid "Last modified date"
+msgstr ""
+
+#: build/index.js:1
+msgid "Number of comments"
+msgstr ""
+
+#: build/index.js:1
+msgid "Meta key"
+msgstr ""
+
+#: build/index.js:1
+msgid "Meta value as number"
+msgstr ""
+
+#: build/index.js:1
+msgid "Meta value as DATE"
+msgstr ""
+
+#: build/index.js:1
+msgid "Meta value as DATETIME"
+msgstr ""
+
+#: build/index.js:1
+msgid "Random order"
+msgstr ""
+
+#: build/index.js:1
+msgid "Fetch count"
+msgstr ""
+
+#: build/index.js:1
+msgid "Offset"
+msgstr ""
+
+#: build/index.js:1
+msgid "Number of products to offset"
+msgstr ""
+
+#: build/index.js:1
+msgid "Pagination type"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show content"
+msgstr ""
+
+#: build/index.js:1
+msgid "Empty"
+msgstr ""
+
+#: build/index.js:1
+msgid "Woocommerce Attribute value"
+msgstr ""
+
+#: build/index.js:1
+msgid "Meta value"
+msgstr ""
+
+#: build/index.js:1
+msgid "Shortcode"
+msgstr ""
+
+#: build/index.js:1
+msgid "Attribute name"
+msgstr ""
+
+#: build/index.js:1
+msgid "Field key"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add Image"
+msgstr ""
+
+#: build/index.js:1
+msgid "Remove"
+msgstr ""
+
+#: build/index.js:1
+msgid "Units"
+msgstr ""
+
+#: build/index.js:1
+msgid "Unit before value?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Text after value"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for value"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Color for value"
+msgstr ""
+
+#: build/index.js:1
+msgid "Color for text"
+msgstr ""
+
+#: build/index.js:1
+msgid "Tooltip text"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image mapper"
+msgstr ""
+
+#: build/index.js:1
+msgid "Value"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add image"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable image?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image height"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image column width"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable Review score?"
+msgstr ""
+
+#: build/index.js:1
+msgid "meta key where review value is stored"
+msgstr ""
+
+#: build/index.js:1
+msgid "Place here custom meta key where your theme stores review value. "
+msgstr ""
+
+#: build/index.js:1
+msgid "Show score as review circle with 1-10 range?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Circle Color"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable User rating?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable Button?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable read more link?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Label for read more"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable numbers?"
+msgstr ""
+
+#: build/index.js:1
+msgid "As title and excerpt on column"
+msgstr ""
+
+#: build/index.js:1
+msgid "As title on separate row"
+msgstr ""
+
+#: build/index.js:1
+msgid "No"
+msgstr ""
+
+#: build/index.js:1
+msgid "Shortcode Area Under content"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable excerpt?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add toggle block link"
+msgstr ""
+
+#: build/index.js:1
+msgid "Near title"
+msgstr ""
+
+#: build/index.js:1
+msgid "Near image"
+msgstr ""
+
+#: build/index.js:1
+msgid "Near button"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disclaimer"
+msgstr ""
+
+#: build/index.js:1
+msgid "Label for toggle link"
+msgstr ""
+
+#: build/index.js:1
+msgid "Content Of toggle"
+msgstr ""
+
+#: build/index.js:1
+msgid "Post content (can slow down page)"
+msgstr ""
+
+#: build/index.js:1
+msgid "Toggle Link Color"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disclaimer meta key"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"Place here custom field key where you store disclaimer. If you use Post "
+"offer disclaimer, you can use key rehub_offer_disclaimer"
+msgstr ""
+
+#: build/index.js:1
+msgid "Stack elements on tablet?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Meta panel"
+msgstr ""
+
+#: build/index.js:1
+msgid "Meta Value section"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add Attribute"
+msgstr ""
+
+#: build/index.js:1
+msgid "Background for meta items"
+msgstr ""
+
+#: build/index.js:1
+msgid "Equal height for meta items"
+msgstr ""
+
+#: build/index.js:1
+msgid "Margin between meta items"
+msgstr ""
+
+#: build/index.js:1
+msgid "Border radius"
+msgstr "Radio del borde"
+
+#: build/index.js:1
+msgid "Disable stretch width on meta panel?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Heading Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "Button Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "Price Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "Item background"
+msgstr ""
+
+#: build/index.js:1
+msgid "Item Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Item Shadow"
+msgstr ""
+
+#: build/index.js:1
+msgid "No items found."
+msgstr ""
+
+#: build/index.js:1
+msgid "Responsive"
+msgstr "Sensible"
+
+#: build/index.js:1
+msgid "Visibility is limited"
+msgstr ""
+
+#: build/index.js:1
+msgid "By Post Type query"
+msgstr ""
+
+#: build/index.js:1
+msgid "By User Meta query"
+msgstr ""
+
+#: build/index.js:1
+msgid "URL query"
+msgstr ""
+
+#: build/index.js:1
+msgid "Referal source"
+msgstr ""
+
+#: build/index.js:1
+msgid "Date period"
+msgstr ""
+
+#: build/index.js:1
+msgid "by Woocommerce options"
+msgstr ""
+
+#: build/index.js:1
+msgid "by Repeater builder options"
+msgstr ""
+
+#: build/index.js:1
+msgid "Taxonomy archive"
+msgstr ""
+
+#: build/index.js:1
+msgid "Taxonomy query block"
+msgstr ""
+
+#: build/index.js:1
+msgid "Grid"
+msgstr ""
+
+#: build/index.js:1
+msgid "Alphabetical"
+msgstr ""
+
+#: build/index.js:1
+msgid "Cards"
+msgstr ""
+
+#: build/index.js:1
+msgid "Grid Hover"
+msgstr ""
+
+#: build/index.js:1
+msgid "Columns"
+msgstr ""
+
+#: build/index.js:1
+msgid "Grid gap"
+msgstr ""
+
+#: build/index.js:1
+msgid "Text for count items"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show Hierarchy"
+msgstr ""
+
+#: build/index.js:1
+msgid "Select Post Type"
+msgstr ""
+
+#: build/index.js:1
+msgid "Select Taxonomy"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show Category Image"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show Empty"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show Count"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show image from meta"
+msgstr ""
+
+#: build/index.js:1
+msgid "Taxonomy image meta field"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image size"
+msgstr ""
+
+#: build/index.js:1
+msgid "Scale"
+msgstr ""
+
+#: build/index.js:1
+msgid "Auto"
+msgstr ""
+
+#: build/index.js:1
+msgid "Cover"
+msgstr ""
+
+#: build/index.js:1
+msgid "Fill"
+msgstr ""
+
+#: build/index.js:1
+msgid "Scale Down"
+msgstr ""
+
+#: build/index.js:1
+msgid "Order by"
+msgstr ""
+
+#: build/index.js:1
+msgid "Name"
+msgstr ""
+
+#: build/index.js:1
+msgid "ID"
+msgstr ""
+
+#: build/index.js:1
+msgid "Count"
+msgstr ""
+
+#: build/index.js:1
+msgid "Slug"
+msgstr ""
+
+#: build/index.js:1
+msgid "Description"
+msgstr "Descripción"
+
+#: build/index.js:1
+msgid "Term Group"
+msgstr ""
+
+#: build/index.js:1
+msgid "By Include field"
+msgstr ""
+
+#: build/index.js:1
+msgid "Parent"
+msgstr ""
+
+#: build/index.js:1
+msgid "None"
+msgstr ""
+
+#: build/index.js:1
+msgid "Order"
+msgstr ""
+
+#: build/index.js:1
+msgid "ASC"
+msgstr ""
+
+#: build/index.js:1
+msgid "DESC"
+msgstr ""
+
+#: build/index.js:1
+msgid "Limit items"
+msgstr ""
+
+#: build/index.js:1
+msgid "Archive options. Use these only if you use block for Archive templates"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show only child of current on archive pages"
+msgstr ""
+
+#: build/index.js:1
+msgid "Exclude current on archive pages"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Title"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Count"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Child"
+msgstr ""
+
+#: build/index.js:1
+msgid "Item Background and Opacity"
+msgstr ""
+
+#: build/index.js:1
+msgid "Item Spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Title background"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Letters in Top"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for Letter in list"
+msgstr ""
+
+#: build/index.js:1
+msgid "Title Spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Block Background"
+msgstr ""
+
+#: build/index.js:1
+msgid "Block Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Block Shadow"
+msgstr ""
+
+#: build/index.js:1
+msgid "Text Settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Username Label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Username Placeholder"
+msgstr ""
+
+#: build/index.js:1
+msgid "Password Placeholder"
+msgstr ""
+
+#: build/index.js:1
+msgid "Remember me Label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Button Label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Lost Password Url"
+msgstr ""
+
+#: build/index.js:1
+msgid "Dont Have an Account Text"
+msgstr ""
+
+#: build/index.js:1
+msgid "Dont Have an Account Link Text"
+msgstr ""
+
+#: build/index.js:1
+msgid "Dont Have an Account Link Url"
+msgstr ""
+
+#: build/index.js:1
+msgid "Logged Text"
+msgstr ""
+
+#: build/index.js:1
+msgid "Logged Link Label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Logged Link Url"
+msgstr ""
+
+#: build/index.js:1
+msgid "Input Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "Input Background"
+msgstr ""
+
+#: build/index.js:1
+msgid "Input Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Input Shadow"
+msgstr ""
+
+#: build/index.js:1
+msgid "Input Label Typography"
+msgstr ""
+
+#: build/index.js:1
+msgid "Button Background"
+msgstr "Fondo del botón"
+
+#: build/index.js:1
+msgid "Button Border"
+msgstr ""
+
+#: build/index.js:1
+msgid "Button Shadow"
+msgstr ""
+
+#: build/index.js:1
+msgid "Select Custom Field"
+msgstr ""
+
+#: build/index.js:1
+msgid "Type field or click icon to select"
+msgstr ""
+
+#: build/index.js:1
+msgid "Select Post type"
+msgstr ""
+
+#: build/index.js:1
+msgid "Dynamic Title"
+msgstr ""
+
+#: build/index.js:1
+msgid "Dynamic title"
+msgstr ""
+
+#: build/index.js:1
+msgid "Source Settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Heading Settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Heading Tag"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add also Background image for this option"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable Image Mask"
+msgstr ""
+
+#: build/index.js:1
+msgid "Width, Height, Clamp"
+msgstr ""
+
+#: build/index.js:1
+msgid "Dynamic Image"
+msgstr ""
+
+#: build/index.js:1
+msgid "Upload Fallback image"
+msgstr ""
+
+#: build/index.js:1
+msgid "Remove image"
+msgstr ""
+
+#: build/index.js:1
+msgid "Content"
+msgstr "Contenido"
+
+#: build/index.js:1
+msgid "Link to Page"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image Sizing"
+msgstr ""
+
+#: build/index.js:1
+msgid "Focal point picker"
+msgstr ""
+
+#: build/index.js:1
+msgid "Enable custom code area in grid"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom code (Html and shortcode)"
+msgstr ""
+
+#: build/index.js:1
+msgid "Position in grid"
+msgstr ""
+
+#: build/index.js:1
+msgid "Remove HTML Code"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add HTML Code"
+msgstr ""
+
+#: build/index.js:1
+msgid "Query Loop Builder"
+msgstr ""
+
+#: build/index.js:1
+msgid "Edit inner layout"
+msgstr ""
+
+#: build/index.js:1
+msgid "Grid settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Grid Columns"
+msgstr ""
+
+#: build/index.js:1
+msgid "Grid Gap"
+msgstr ""
+
+#: build/index.js:1
+msgid "Side Gap"
+msgstr ""
+
+#: build/index.js:1
+msgid "Row Gap"
+msgstr ""
+
+#: build/index.js:1
+msgid "Item grid #"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom Range"
+msgstr ""
+
+#: build/index.js:1
+msgid "Col Start"
+msgstr ""
+
+#: build/index.js:1
+msgid "Col End"
+msgstr ""
+
+#: build/index.js:1
+msgid "Row Start"
+msgstr ""
+
+#: build/index.js:1
+msgid "Row End"
+msgstr ""
+
+#: build/index.js:1
+msgid "Column Span"
+msgstr ""
+
+#: build/index.js:1
+msgid "Row Span"
+msgstr ""
+
+#: build/index.js:1
+msgid "Heading Size"
+msgstr ""
+
+#: build/index.js:1
+msgid "Line Height"
+msgstr ""
+
+#: build/index.js:1
+msgid "No more posts label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Widget title"
+msgstr ""
+
+#: build/index.js:1
+msgid "Container Link & Image"
+msgstr ""
+
+#: build/index.js:1
+msgid "Link whole container"
+msgstr ""
+
+#: build/index.js:1
+msgid "Open in New Window"
+msgstr ""
+
+#: build/index.js:1
+msgid "Featured Image as Background"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image Opacity"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom code area"
+msgstr ""
+
+#: build/index.js:1
+msgid "Item Css Transform"
+msgstr ""
+
+#: build/index.js:1
+msgid "Item FlexBox"
+msgstr ""
+
+#: build/index.js:1
+msgid "Done"
+msgstr ""
+
+#: build/index.js:1
+msgid "Cancel"
+msgstr ""
+
+#: build/index.js:1
+msgid "Reset layout to default"
+msgstr ""
+
+#: build/index.js:1
+msgid "Reset Layout"
+msgstr ""
+
+#: build/index.js:1
+msgid "Slider is updating..."
+msgstr ""
+
+#: build/index.js:1
+msgid "Items not found."
+msgstr ""
+
+#: build/index.js:1
+msgid "Parent-child categorizator"
+msgstr ""
+
+#: build/index.js:1
+msgid "For making dynamic page lists with relations"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"Block is for showing parent - child dependent list of custom post items (for "
+"example pages). It shows list depending on current page. If user is on top "
+"level page or child page, list shows also child items and highlight actual "
+"page and parent page. It shows placeholder inside editor for design "
+"configuration purpose. You can see actual work of block only on frontend "
+"side."
+msgstr ""
+
+#: build/index.js:1
+msgid "This works only with hierarchical post types"
+msgstr ""
+
+#: build/index.js:1
+msgid "Modified date"
+msgstr ""
+
+#: build/index.js:1
+msgid "Menu order"
+msgstr ""
+
+#: build/index.js:1
+msgid "Random"
+msgstr ""
+
+#: build/index.js:1
+msgid "Depth"
+msgstr ""
+
+#: build/index.js:1
+msgid "Hide Children for Not Active"
+msgstr ""
+
+#: build/index.js:1
+msgid "Comma separated list of page IDs to include. Default is empty string."
+msgstr ""
+
+#: build/index.js:1
+msgid "Comma separated list of page IDs to exclude. Default is empty string."
+msgstr ""
+
+#: build/index.js:1
+msgid "Link Before"
+msgstr ""
+
+#: build/index.js:1
+msgid "Text before links"
+msgstr ""
+
+#: build/index.js:1
+msgid "Size"
+msgstr ""
+
+#: build/index.js:1
+msgid "Spacing"
+msgstr ""
+
+#: build/index.js:1
+msgid "CSS transform"
+msgstr ""
+
+#: build/index.js:1
+msgid "Link After"
+msgstr ""
+
+#: build/index.js:1
+msgid "Element after links"
+msgstr ""
+
+#: build/index.js:1
+msgid "Child Selection"
+msgstr ""
+
+#: build/index.js:1
+msgid "Child of"
+msgstr ""
+
+#: build/index.js:1
+msgid "Id of page item if you want to show only children of item"
+msgstr ""
+
+#: build/index.js:1
+msgid "Typography for links"
+msgstr ""
+
+#: build/index.js:1
+msgid "Background for links"
+msgstr ""
+
+#: build/index.js:1
+msgid "Border for links"
+msgstr ""
+
+#: build/index.js:1
+msgid "Spacing for links"
+msgstr ""
+
+#: build/index.js:1
+msgid "Spacing for Child List"
+msgstr ""
+
+#: build/index.js:1
+msgid "Shadow for links"
+msgstr ""
+
+#: build/index.js:1
+msgid "Block Size"
+msgstr ""
+
+#: build/index.js:1
+msgid "Dynamic Gallery"
+msgstr ""
+
+#: build/index.js:1
+msgid "Dynamic gallery"
+msgstr ""
+
+#: build/index.js:1
+msgid "Array of Attachment IDs"
+msgstr ""
+
+#: build/index.js:1
+msgid "Array of Attachment URLs"
+msgstr ""
+
+#: build/index.js:1
+msgid "Images attached to Post"
+msgstr ""
+
+#: build/index.js:1
+msgid "ACF Gallery field"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add also Post Thumbnail"
+msgstr ""
+
+#: build/index.js:1
+msgid ""
+"You can also add Youtube videos to gallery once you enable lighbox. For "
+"this, when you edit media file in Media - Library or when you select media, "
+"assign Video url to image"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable lazy loading"
+msgstr ""
+
+#: build/index.js:1
+msgid "Disable advanced attachments"
+msgstr ""
+
+#: build/index.js:1
+msgid "Gallery Grid Settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Convert to grid"
+msgstr ""
+
+#: build/index.js:1
+msgid "Convert to slider"
+msgstr ""
+
+#: build/index.js:1
+msgid "Custom Grid Options"
+msgstr ""
+
+#: build/index.js:1
+msgid "for Item "
+msgstr ""
+
+#: build/index.js:1
+msgid "Select Item from grid"
+msgstr ""
+
+#: build/index.js:1
+msgid "Add Grid Custom Range"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image Settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Width"
+msgstr ""
+
+#: build/index.js:1
+msgid "Small"
+msgstr "Pequeña"
+
+#: build/index.js:1
+msgid "Medium"
+msgstr ""
+
+#: build/index.js:1
+msgid "Large"
+msgstr "Grande"
+
+#: build/index.js:1
+msgid "Custom"
+msgstr ""
+
+#: build/index.js:1
+msgid "Height"
+msgstr ""
+
+#: build/index.js:1
+msgid "Image Shadow"
+msgstr ""
+
+#: build/index.js:1
+msgid "Animation"
+msgstr ""
+
+#: build/index.js:1
+msgid "Css Transform"
+msgstr "Transformación CSS"
+
+#: build/index.js:1
+msgid "Position"
+msgstr "Posición"
+
+#: build/index.js:1
+msgid "360 Dynamic Gallery"
+msgstr "Galería dinámica 360"
+
+#: build/index.js:1
+msgid "360 gallery"
+msgstr "galería 360"
+
+#: build/index.js:1
+msgid "Lightbox"
+msgstr "Caja ligera"
+
+#: build/index.js:1
+msgid "Autoplay"
+msgstr "Auto-reproducción"
+
+#: build/index.js:1
+msgid "Show each frame in ms"
+msgstr "Mostrar cada fotograma en ms"
+
+#: build/index.js:1
+msgid "Drag speed in ms"
+msgstr "Velocidad de arrastre en ms"
+
+#: build/index.js:1
+msgid "Repeater builder"
+msgstr "Constructor de repetidores"
+
+#: build/index.js:1
+msgid "Source field"
+msgstr "Campo fuente"
+
+#: build/index.js:1
+msgid "Field Type"
+msgstr "Campo fuente"
+
+#: build/index.js:1
+msgid "ACF Repeater Field"
+msgstr "Campo repetidor ACF"
+
+#: build/index.js:1
+msgid "Custom Field Array"
+msgstr "Matriz de campos personalizados"
+
+#: build/index.js:1
+msgid "Relationship Post Objects"
+msgstr ""
+
+#: build/index.js:1
+msgid "Relationship Post Ids"
+msgstr ""
+
+#: build/index.js:1
+msgid "Convert to repeater"
+msgstr ""
+
+#: build/index.js:1
+msgid "Breadcrumbs"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show Home"
+msgstr ""
+
+#: build/index.js:1
+msgid "Home Label"
+msgstr ""
+
+#: build/index.js:1
+msgid "Separator"
+msgstr ""
+
+#: build/index.js:1
+msgid "Gap for items"
+msgstr ""
+
+#: build/index.js:1
+msgid "Design"
+msgstr "Diseño"
+
+#: build/index.js:1
+msgid "Overwrite Site pages by this template"
+msgstr ""
+
+#: build/index.js:1
+msgid "Make sure that you saved template"
+msgstr ""
+
+#: build/index.js:1
+msgid "By user role"
+msgstr ""
+
+#: build/index.js:1
+msgid "This will overwrite default Post type archive page"
+msgstr ""
+
+#: build/index.js:1
+msgid "This will overwrite default Single Page template"
+msgstr ""
+
+#: build/index.js:1
+msgid "Saving to database"
+msgstr ""
+
+#: build/index.js:1
+msgid "Save template"
+msgstr ""
+
+#: build/index.js:1
+msgid "Template Replacement"
+msgstr ""
+
+#: build/index.js:1
+msgid "Visibility settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Use visibility settings"
+msgstr ""
+
+#: blockrender/advanced-listing/block.json
+msgctxt "block title"
+msgid "Advanced Query Listing Builder"
+msgstr "Generador avanzado de listados de consultas"
+
+#: blockrender/advanced-listing/block.json
+msgctxt "block description"
+msgid "For making listings based on posts and products"
+msgstr "Para hacer listados basados en publicaciones y productos."
+
+#: blockrender/dynamic-post-image/block.json
+msgctxt "block title"
+msgid "Dynamic Post Image"
+msgstr "Imagen de publicación dinámica"
+
+#: blockrender/dynamic-post-image/block.json
+msgctxt "block description"
+msgid "Dynamic Post Image"
+msgstr "Imagen de publicación dinámica"
+
+#: blockrender/dynamic-post-title/block.json
+msgctxt "block title"
+msgid "Dynamic post title"
+msgstr "Título de publicación dinámica"
+
+#: blockrender/dynamic-post-title/block.json
+msgctxt "block description"
+msgid "Dynamic post title"
+msgstr "Título de publicación dinámica"
+
+#: blockrender/dynamicgallery/block.json
+msgctxt "block title"
+msgid "Dynamic gallery"
+msgstr "Galería dinámica"
+
+#: blockrender/dynamicgallery/block.json
+msgctxt "block description"
+msgid "Dynamic gallery"
+msgstr "Dynamic gallery"
+
+#: blockrender/login-form/block.json
+msgctxt "block title"
+msgid "Login Form"
+msgstr "Formulario de inicio de sesión"
+
+#: blockrender/login-form/block.json
+msgctxt "block description"
+msgid "Login Form"
+msgstr "Formulario de inicio de sesión"
+
+#: blockrender/meta/block.json
+msgctxt "block title"
+msgid "Post Meta getter"
+msgstr "Publicar meta getter"
+
+#: blockrender/pagelist/block.json
+msgctxt "block title"
+msgid "Parent-child categorizator"
+msgstr "Categorizador padre-hijo"
+
+#: blockrender/querygrid/block.json
+msgctxt "block title"
+msgid "Query Loop Builder"
+msgstr "Generador de bucles de consultas"
+
+#: blockrender/querygrid/block.json
+msgctxt "block description"
+msgid "Query Loop Builder"
+msgstr "Generador de bucles de consultas"
+
+#: blockrender/repeater/block.json
+msgctxt "block title"
+msgid "Repeater Builder"
+msgstr "Constructor de repetidores"
+
+#: blockrender/repeater/block.json
+msgctxt "block description"
+msgid "Repeater Builder"
+msgstr "Constructor de repetidores"
+
+#: blockrender/taxonomy/block.json
+msgctxt "block title"
+msgid "Taxonomy block"
+msgstr "Bloque de taxonomía"
+
+#: blockrender/threesixty/block.json
+msgctxt "block title"
+msgid "Dynamic 360 gallery"
+msgstr "Galería dinámica 360"
+
+#: blockrender/threesixty/block.json
+msgctxt "block description"
+msgid "Dynamic 360 gallery"
+msgstr "Galería dinámica 360"
+
+#: blockrender/thumbcounter/block.json
+msgctxt "block title"
+msgid "Thumbs counter"
+msgstr "contador de pulgares"
+
+#: blockrender/visibility-block/block.json
+msgctxt "block title"
+msgid "Visibility block"
+msgstr "Bloque de visibilidad"
+
+#: blockrender/visibility-block/block.json
+msgctxt "block description"
+msgid "For conditional visibility"
+msgstr "Para visibilidad condicional"
+
+#: blockrender/wishlist/block.json
+msgctxt "block title"
+msgid "Wishlist"
+msgstr "Lista de deseos"

@@ -1,0 +1,22 @@
+<wpml-config>
+	<gutenberg-blocks>
+		<gutenberg-block
+			type="greenshift-blocks/login-form" translate="1"
+			label="Query-loginform">
+			<key name="username_label" />
+			<key name="username_placeholder" />
+			<key name="password_label" />
+			<key name="password_placeholder" />
+			<key name="remember_me_label" />
+			<key name="button_label" />
+			<key name="dont_have_acc_text" />
+			<key name="dont_have_acc_link_text" />
+		</gutenberg-block>
+
+		<gutenberg-block
+			type="greenshift-blocks/breadcrumbs" translate="1" label="Query-breadcrums">
+			<key name="homelabel" />
+		</gutenberg-block>
+
+	</gutenberg-blocks>
+</wpml-config>
